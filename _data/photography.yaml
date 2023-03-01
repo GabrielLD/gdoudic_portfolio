@@ -1,18 +1,12 @@
-- name: Architecture
+- name: Landscapes
   key: 72157633566493386
-- name: Animals
+- name: Street Photography
   key: 72157633566493386
 - name: Nature
   key: 72157633532267229
-- name: Places
+- name: Animals
   key: 72157633566493386
-- name: Landscapes
+- name: Clouds
   key: 72157633566493386
-- name: Sky
-  key: 72157633566493386
-- name: Lights
-  key: 72157639277651254
-- name: People
-  key: 72157635243918659
-- name: Miscellaneous 
+- name: Moon
   key: 72157633566493386
