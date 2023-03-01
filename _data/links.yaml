@@ -1,6 +1,6 @@
-- name: Personal Page
-  favicon: 
-  url: 
+#- name: Personal Page
+ # favicon: 
+ # url: 
 - name: Twitter
   favicon: fa-twitter
   url: https://twitter.com/GDoudic
